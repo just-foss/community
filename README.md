@@ -1,2 +1,2 @@
-# meta
-meta repository for governance, issue with org, scope, meetings etc.
+# community
+Community repository for governance, issue with org, scope, meetings etc.
