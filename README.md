@@ -26,7 +26,10 @@ The main goal of just-foss, would aim to share valid knowledge for people to dif
 
 We will do a remote meeting when we have at least 4 talks. Each talk should from 20/40 minutes  duration, with slides, examples etc.
 
-The meeting will happen via a GoToMeeting invitation, and it will be registered for sharing on the web.
+The meeting will happen via an opensource video/sharing tool.
+
+We will **not** register any meetings. The reason behind this is that we want to build a human, trusted network beetween professionals, students and any programmer around.
+Having an ephimeral non recorded meeting enforce people to be more relaxed and honest, since it will be just for the people attending.
 
 We will do preferrably meetings with camera, but if people don't want to show up for some reason, we don't require it, allthough showing up create more connections feeling :)
 
